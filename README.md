@@ -1,7 +1,9 @@
 angular-jquery-colorbox
 =======================
 
-angular using jquerybox
+angular using jquery colorbox
+this sample need run in server,because in file not in same domain
+
 
 This plug-in base on Colorbox v1.4.33 - 2013-10-31
 
